@@ -1,0 +1,27 @@
+{
+    "estudiantes": [
+        {
+            "id": 1,
+            "nombre": "Martina López",
+            "legajo": "1234"
+        }
+    ],
+    "responsables": [
+        {
+            "id": 1,
+            "nombre": "Laura Gómez",
+            "area": "Secretaría Académica"
+        }
+    ],
+    "solicitudes": [
+        {
+            "id": 1,
+            "estudiante_id": 1,
+            "tipo": "Certificado de alumno regular",
+            "prioridad": "Alta",
+            "descripcion": "Solicitud de certificado para presentar en otra institución.",
+            "estado": "Pendiente",
+            "responsable_id": 1
+        }
+    ]
+}
