@@ -46,3 +46,12 @@ Para ejecutar la version refactorizada (sistema mejorado):
 python3 version_refactorizada/main.py
 ```
 
+## Video de defensa y demostracion
+
+El video grupal explicativo se encuentra disponible en el siguiente enlace:
+- [Video de Presentacion en Google Drive](https://drive.google.com/file/d/1qNMXisz7EI8inIM2FHM5edfrk_7orGlC/view?usp=drive_link)
+
+## Tags de Git para la entrega academica
+
+- Tags de estado general: `estado-inicial` y `estadorefactorizado`.
+- Tags de etapas especificas: `etapa-diagnostico`, `etapa-refactoring`, `etapa-pruebas` y `etapa-docs`.
